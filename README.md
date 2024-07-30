@@ -21,7 +21,3 @@ Welcome to my Data Science Projects repository. Here, you'll find my hands-on pr
 - Business Intelligence: Tableau Dashboards
 
 Explore the projects to see detailed implementations and results. These projects showcase my ability to tackle complex data science problems using various tools and techniques.
-
----
-
-Feel free to further customize it to better fit your needs!
